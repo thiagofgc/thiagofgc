@@ -1,8 +1,8 @@
 ## Olá!! me chamo thiago
 
 
-- 🔭 atualmente cursando analise e desenvolvimento de sistemas
-- 🌱 foco em banco de dados, python
+- 🔭 atualmente cursando analise e desenvolvimento de sistemas(ADS) primeiro semestre
+- 🌱 foco em banco de dados(SQL), python.
   
 ##
 
