@@ -1,8 +1,8 @@
-## Hi there 👋
+## Olá!! me chamo thiago
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 atualmente cursando analise e desenvolvimento de sistemas
+- 🌱 foco em banco de dados, python
   
 ##
 
