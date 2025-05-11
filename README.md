@@ -1,4 +1,4 @@
-## Olá!! me chamo thiago
+## Olá!! me chamo Thiago👋
 
 
 - 🔭 atualmente cursando analise e desenvolvimento de sistemas(ADS) primeiro semestre
